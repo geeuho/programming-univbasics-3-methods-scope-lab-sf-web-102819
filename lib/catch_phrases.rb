@@ -1,7 +1,7 @@
-$phrase = "Do a Barrel RolL!"
+$phrase = "Do a Barrel Roll!"
 
 def mario
-  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  phrase = "It's-a me, Mario!"
   puts phrase
 end
 
